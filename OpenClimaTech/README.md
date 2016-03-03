@@ -1,5 +1,7 @@
 #OpenClimaTech
----------
+
+
+
 Esta alplicacion ha sido creada para el climathon en Republica Dominicana 2016, tiene un foco en enseñar el clima en tiempo real a usuarios a travez de una pagina.
 -----------
 
