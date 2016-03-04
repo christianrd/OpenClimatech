@@ -1,8 +1,8 @@
 # AmbienTech
 
 Bienvenidos, esta es una aplicacion hecha para el Climathon en Republica Dominicana 2016. Este repositorio sera dividido en 2 aplicaciones diferentes:
- - OpenClimaTech
- - EDUClima
+ 1. OpenClimaTech
+ 2. EDUClima
  
 Miembros de este proyecto:
   - Christian D. Rodriguez
@@ -10,7 +10,6 @@ Miembros de este proyecto:
   - Daniel Guerrero
   - Ivan Estevez
   - Eduardo Diaz
-  - Enmanuel Luciano
   - Enmanuel Dominguez
 
 
@@ -18,8 +17,8 @@ Miembros de este proyecto:
 ---------------
 
 Welcome, this is an application made for the climathon in Dominican Republic 2016. This repository will be divided into 2 different apps:
- - OpenClimaTech
- - EDUClima
+ 1. OpenClimaTech
+ 2. EDUClima
 
 Members of this project:
   - Christian D. Rodriguez
@@ -27,7 +26,6 @@ Members of this project:
   - Daniel Guerrero
   - Ivan Estevez
   - Eduardo Diaz
-  - Enmanuel Luciano
   - Enmanuel Dominguez
 
 
