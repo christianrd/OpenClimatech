@@ -1,7 +1,7 @@
 # AmbienTech
 
 Bienvenidos, esta es una aplicacion hecha para el Climathon en Republica Dominicana 2016. Este repositorio sera dividido en 3 aplicaciones diferentes:
- - OpenCLimaTech
+ - OpenClimaTech
  - CO2 drone
  - Documentative website
  
