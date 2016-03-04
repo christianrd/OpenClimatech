@@ -1,9 +1,8 @@
 # AmbienTech
 
-Bienvenidos, esta es una aplicacion hecha para el Climathon en Republica Dominicana 2016. Este repositorio sera dividido en 3 aplicaciones diferentes:
+Bienvenidos, esta es una aplicacion hecha para el Climathon en Republica Dominicana 2016. Este repositorio sera dividido en 2 aplicaciones diferentes:
  - OpenClimaTech
- - CO2 drone
- - Documentative website
+ - EDUClima
  
 Miembros de este proyecto:
   - Christian D. Rodriguez
@@ -18,10 +17,9 @@ Miembros de este proyecto:
 
 ---------------
 
-Welcome, this is an application made for the climathon in Dominican Republic 2016. This repository will be divided into 3 different apps:
+Welcome, this is an application made for the climathon in Dominican Republic 2016. This repository will be divided into 2 different apps:
  - OpenClimaTech
- - CO2 drone
- - Documentative website
+ - EDUClima
 
 Members of this project:
   - Christian D. Rodriguez
