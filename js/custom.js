@@ -21,7 +21,7 @@
 
     $("#verificar2").click(function(){
         var respuesta2 = $('input:radio[name=resp2]:checked').val();
-        if()(respuesta2 == "C"){
+        if(respuesta2 == "C"){
             $("#answer2").fadeOut('fast');
             $("#succes2").fadeIn('slow');
         }else if(respuesta2 == "A"){
