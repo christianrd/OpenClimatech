@@ -9,12 +9,14 @@
 
     $("#verificar1").click(function(){
         var respuesta1 = $('input:radio[name=resp1]:checked').val();
+        alert(respuesta1);
         if(respuesta1 == "B"){
             $("#answer1").fadeOut('fast');
             $("#succes1").fadeIn('slow');
         }else{
             $("#answer1").fadeOut('fast');
             $("#error1").fadeIn('slow');
+
         }
     });
 
