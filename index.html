@@ -371,7 +371,7 @@
 
 							</div>
 							<div class="col-md-6">
-								<!--<img class="img-responsive " src="homepages/one-page-v2/images/4.png" alt="">-->
+								<img class="img-responsive " src="http://cdn1.theodysseyonline.com/files/2015/07/23/635732924053603777-93632716_group.png" alt="">
 							</div>
 						</div>
 					</div>
@@ -480,16 +480,16 @@
 	        <form role="form" method="post" id="answer2" name="answer2">
 	        	<div class="form-group">
 	        		<div class="radio">
-  						<label><input type="radio" id="resp2" name="resp2">A) Un gas.</label>
+  						<label><input type="radio" id="resp2" value="A" name="resp2">A) Un gas.</label>
 					</div>
 					<div class="radio">
-					  <label><input type="radio" id="resp2" name="resp2">B) Un radiación.</label>
+					  <label><input type="radio" id="resp2" value="B" name="resp2">B) Un radiación.</label>
 					</div>
-					<div class="radio disabled">
-					  <label><input type="radio" id="resp2" name="resp2">C) Una retención de radiación.</label>
+					<div class="radio">
+					  <label><input type="radio" id="resp2" value="C" name="resp2">C) Una retención de radiación.</label>
 					</div>
-					<div class="radio disabled">
-					  <label><input type="radio" id="resp2" name="resp2">D) Calentamiento en la atmosfera.</label>
+					<div class="radio">
+					  <label><input type="radio" id="resp2" value="D" name="resp2">D) Calentamiento en la atmosfera.</label>
 					</div>
 	        	</div>
 	        	<div class="modal-footer">
@@ -519,7 +519,7 @@
 	        <form role="form" method="post" name="answer3" id="answer3">
 	        	<div class="form-group">
 	        		<div class="radio">
-  						<label><input type="radio" id="boolean" value="si" name="boolean">A) Si</label>
+  						<label><input type="radio" id="boolean" value="Si" name="boolean">A) Si</label>
 					</div>
 					<div class="radio">
 					  <label><input type="radio" id="boolean" value="No" name="boolean">B) No</label>
@@ -529,6 +529,8 @@
 	        		<button type="button" class="btn btn-default" id="verificar3">Verificar</button>
 	      		</div>
 	        </form>
+	        <div class="alert alert-warning" id="error3" role="alert"> :( Respuesta incorrecta</div>
+	        <div class="alert alert-success" id="success3" role="alert"> :) Respuesta Correcta</div>
 	      </div>
 	    </div>
 
